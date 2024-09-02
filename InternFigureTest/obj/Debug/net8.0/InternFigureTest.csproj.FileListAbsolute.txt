@@ -1,0 +1,14 @@
+C:\Users\chesn\YandexDisk\repos\N\InternFigureTest\InternFigureTest\bin\Debug\net8.0\InternFigureTest.exe
+C:\Users\chesn\YandexDisk\repos\N\InternFigureTest\InternFigureTest\bin\Debug\net8.0\InternFigureTest.deps.json
+C:\Users\chesn\YandexDisk\repos\N\InternFigureTest\InternFigureTest\bin\Debug\net8.0\InternFigureTest.runtimeconfig.json
+C:\Users\chesn\YandexDisk\repos\N\InternFigureTest\InternFigureTest\bin\Debug\net8.0\InternFigureTest.dll
+C:\Users\chesn\YandexDisk\repos\N\InternFigureTest\InternFigureTest\bin\Debug\net8.0\InternFigureTest.pdb
+C:\Users\chesn\YandexDisk\repos\N\InternFigureTest\InternFigureTest\obj\Debug\net8.0\InternFigureTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chesn\YandexDisk\repos\N\InternFigureTest\InternFigureTest\obj\Debug\net8.0\InternFigureTest.AssemblyInfoInputs.cache
+C:\Users\chesn\YandexDisk\repos\N\InternFigureTest\InternFigureTest\obj\Debug\net8.0\InternFigureTest.AssemblyInfo.cs
+C:\Users\chesn\YandexDisk\repos\N\InternFigureTest\InternFigureTest\obj\Debug\net8.0\InternFigureTest.csproj.CoreCompileInputs.cache
+C:\Users\chesn\YandexDisk\repos\N\InternFigureTest\InternFigureTest\obj\Debug\net8.0\InternFigureTest.dll
+C:\Users\chesn\YandexDisk\repos\N\InternFigureTest\InternFigureTest\obj\Debug\net8.0\refint\InternFigureTest.dll
+C:\Users\chesn\YandexDisk\repos\N\InternFigureTest\InternFigureTest\obj\Debug\net8.0\InternFigureTest.pdb
+C:\Users\chesn\YandexDisk\repos\N\InternFigureTest\InternFigureTest\obj\Debug\net8.0\InternFigureTest.genruntimeconfig.cache
+C:\Users\chesn\YandexDisk\repos\N\InternFigureTest\InternFigureTest\obj\Debug\net8.0\ref\InternFigureTest.dll
