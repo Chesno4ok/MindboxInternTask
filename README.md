@@ -1,5 +1,6 @@
 SQL Запрос 
 
+
 SELECT p.ProductName, c.CategoryName
 
 FROM Products p
