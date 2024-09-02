@@ -57,6 +57,9 @@ namespace InternFigureTest
         public float Area { get; set; }
         public Circle(float radius) : base()
         {
+            if (radius < 0)
+                throw new ArgumentException("Радиус не может быть меньше нуля");
+
             List<Vector2> points = new List<Vector2>();
             int pointCount = (int) radius * 10;
 
